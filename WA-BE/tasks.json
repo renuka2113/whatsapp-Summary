@@ -1,0 +1,159 @@
+{
+    "assigned_tasks": [
+        {
+            "task": "Coordinate with other agencies if needed regarding cold cases",
+            "assigned_by": "Rishaal (SP)",
+            "assigned_to": "Pravallika (Addl. SP)",
+            "time": "07/07/2509:00"
+        },
+        {
+            "task": "Specifically check Mangalagiri's unsolved property cases",
+            "assigned_by": "Rishaal (SP)",
+            "assigned_to": "Meghana (DSP)",
+            "time": "07/07/2509:00"
+        },
+        {
+            "task": "Focus on 2023 unsolved theft files",
+            "assigned_by": "Pravallika (Addl. SP)",
+            "assigned_to": "Meghana (DSP)",
+            "time": "07/07/2509:05"
+        },
+        {
+            "task": "Retrieve all relevant case files for unsolved thefts",
+            "assigned_by": "Meghana (DSP)",
+            "assigned_to": "Eeshitha (CI)",
+            "time": "07/07/2509:10"
+        },
+        {
+            "task": "Follow up with Nellore regarding a suspect",
+            "assigned_by": "Koushik (DSP, self-initiated query)",
+            "assigned_to": "Koushik (DSP)",
+            "time": "07/07/2509:30"
+        },
+        {
+            "task": "Cross-check recent ATM frauds with old reports",
+            "assigned_by": "Vamsi (CI)",
+            "assigned_to": "Naveen (SI)",
+            "time": "07/07/2510:00"
+        },
+        {
+            "task": "Provide update on cross-border intelligence",
+            "assigned_by": "Pravallika (Addl. SP)",
+            "assigned_to": "Sindhu (DSP)",
+            "time": "08/07/2509:00"
+        },
+        {
+            "task": "Share intelligence brief on suspected cross-border narcotics movement",
+            "assigned_by": "Sindhu (DSP)",
+            "assigned_to": "Harshitha (CI)",
+            "time": "08/07/2509:05"
+        },
+        {
+            "task": "Move in to apprehend drug peddler as part of ongoing operation",
+            "assigned_by": "Venkatesh (DSP)",
+            "assigned_to": "Premasri (CI), Anarya (SI)",
+            "time": "08/07/25 11:00"
+        },
+        {
+            "task": "Provide a consolidated brief on your division's top 3 operational priorities for the next 48 hours",
+            "assigned_by": "Rishaal (SP)",
+            "assigned_to": "All DSPs",
+            "time": "08/07/25 12:00"
+        },
+        {
+            "task": "Compile and collect operational priority reports from DSPs",
+            "assigned_by": "Pravallika (Addl. SP)",
+            "assigned_to": "DSP Lovekik (first), all DSPs (implied)",
+            "time": "09/07/25 09:15"
+        },
+        {
+            "task": "Share inputs on critical border points by EOD",
+            "assigned_by": "Sindhu (DSP)",
+            "assigned_to": "Harshitha (CI)",
+            "time": "09/07/25 12:30"
+        },
+        {
+            "task": "Ensure division’s priorities are translated into actionable plans for all teams",
+            "assigned_by": "Rishaal (SP)",
+            "assigned_to": "Pravallika (Addl. SP)",
+            "time": "09/07/25 13:00"
+        }
+    ],
+    "completed_tasks": [
+        {
+            "task": "Community engagement session",
+            "completed_by": "Charitha (SI)",
+            "completion_time": "07/07/2512:00"
+        },
+        {
+            "task": "Cyber awareness drive presentations in 3 schools",
+            "completed_by": "Sahithi (SI, managed presentations), Aravind (DSP, overall drive reported as done)",
+            "completion_time": "08/07/2509:30"
+        },
+        {
+            "task": "Pawn shop checks in Narasaraopet",
+            "completed_by": "Saketh (DSP)",
+            "completion_time": "08/07/2510:00"
+        },
+        {
+            "task": "Move in to apprehend drug peddler as part of ongoing operation",
+            "completed_by": "Premasri (CI), Anarya (SI)",
+            "completion_time": "Operation started at 08/07/25 11:10 (Anarya), Drugs seized and case registered at 09/07/25 12:05 (Premasri)"
+        },
+        {
+            "task": "Provide a consolidated brief on your division's top 3 operational priorities for the next 48 hours",
+            "completed_by": "Lovekik (DSP), Aravind (DSP), Meghana (DSP), Medhansh (DSP), Saketh (DSP), Koushik (DSP), Venkatesh (DSP)",
+            "completion_time": "09/07/25 09:10 - 12:00 (Individual DSP reports)"
+        }
+    ],
+    "incomplete_tasks": [
+        {
+            "task": "Coordinate with other agencies if needed regarding cold cases",
+            "assigned_to": "Pravallika (Addl. SP)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Specifically check Mangalagiri's unsolved property cases",
+            "assigned_to": "Meghana (DSP)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Focus on 2023 unsolved theft files",
+            "assigned_to": "Meghana (DSP)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Retrieve all relevant case files for unsolved thefts",
+            "assigned_to": "Eeshitha (CI)",
+            "status": "Not marked as complete (progress reported)"
+        },
+        {
+            "task": "Follow up with Nellore regarding a suspect",
+            "assigned_to": "Koushik (DSP)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Cross-check recent ATM frauds with old reports",
+            "assigned_to": "Naveen (SI)",
+            "status": "Not marked as complete (progress reported)"
+        },
+        {
+            "task": "Provide update on cross-border intelligence"
+        },
+        {
+            "task": "Compile and collect operational priority reports from DSPs",
+            "assigned_to": "Pravallika (Addl. SP)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Share inputs on critical border points by EOD",
+            "assigned_to": "Harshitha (CI)",
+            "status": "Not marked as complete"
+        },
+        {
+            "task": "Ensure division’s priorities are translated into actionable plans for all teams",
+            "assigned_to": "Pravallika (Addl. SP)",
+            "status": "Not marked as complete"
+        }
+    ]
+}
